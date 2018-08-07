@@ -1,3 +1,3 @@
 # Swift-APP-Calculadora
 
-Calculadora programada en Swift
+Calculadora programada en Swift en XCODE
